@@ -5,7 +5,7 @@ pipeline {
         stage('Echo') {
             steps {
                 script {
-                    echo 'Hello, this is a simple echo from Jenkins!'
+                    echo 'Abdul Hello, this is a simple echo from Jenkins!'
                 }
             }
         }
